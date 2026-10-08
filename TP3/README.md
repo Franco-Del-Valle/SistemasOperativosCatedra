@@ -1,4 +1,4 @@
-Ejercicios del TP3:
+Ejercicios del TP3 (Scripts):
 
 1- Guardar las variables de entorno HOSTNAME, HOME, LOGNAME Y PATH en un archivo de nombre var-set ordenado por nombre de variable.
 2- Implementar un script que cambie los permisos de todos los ejercicios (scripts) de la practica 2 que se encuentran en …/practicas/tp2/ para que puedan ser ejecutados por otros y modificados por el grupo, el resto de los permisos quedan igual.
