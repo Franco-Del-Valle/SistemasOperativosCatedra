@@ -1,4 +1,4 @@
-Ejercicios del TP5:
+Ejercicios del TP5 (Semáforos - Hilos - Administración de Memoria):
 
 1) Hacer un programa en lenguaje C que permita manejar a través de 2 hilos distintos la impresión de dos frases:
 a) “Primero aprendo lenguaje C” (hilo 1)
