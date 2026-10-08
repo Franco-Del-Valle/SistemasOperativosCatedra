@@ -1,4 +1,4 @@
-Ejercicios del TP4:
+Ejercicios del TP4 (Administración de CPU – Procesos):
 
 1. Instalar compilador de lenguaje C (gcc) y librerías necesarias. Además realice una rutina en estelenguaje que sume los 5 primeros números naturales.
 2. Realizar una rutina en lenguaje C que pida cargar un vector de 10 elementos numéricos y los devuelva ordenado de menor a mayor.
