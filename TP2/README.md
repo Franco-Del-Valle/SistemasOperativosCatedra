@@ -1,4 +1,4 @@
-Ejercicios del TP2:
+Ejercicios del TP2 (Scripts):
 
 1. Crear el directorio tp2 dentro de /documentos/practicas y realizar un script que muestre por
 pantalla “Estoy aprendiendo lenguaje scripting” .
