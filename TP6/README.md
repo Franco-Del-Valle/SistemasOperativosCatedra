@@ -1,4 +1,4 @@
-Ejercicios del TP6:
+Ejercicios del TP6 (Administración e instalación de servicios en linux):
 
 1) Usando el gestor de paquetes de Linux, instalar un servidor Apache2 para usarlo como web server.
 2) Usando el comando netstat, genere un script que identifique y devuelva por pantalla los puertos de comunicación que usa el servicio http.
