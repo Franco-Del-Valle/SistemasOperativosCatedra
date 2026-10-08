@@ -36,3 +36,5 @@ b) Que solamente un hijo puede crear procesos
 c) Que solo un hijo cree procesos en forma lineal
 14. Hacer un script donde el mismo solicite adivinar el PID del script que estoy ejecutando, el mismo deberá informar si es mayor o menor el número que se está ingresando. Una vez adivinado mostrar por pantalla la cantidad de intentos que uso y el número de PID
 15. Hacer una rutina en lenguaje C, que genere el siguiente árbol de procesos, donde el padre debe ejecutar un scripts de Linux (función system), el hijo 1 debe crear a su vez 3 hijos (H11, H12, H13 y mostrar el pid de cada uno), y el hijo 3 debe ejecutar un comando usando la función execl.
+<img width="711" height="220" alt="image" src="https://github.com/user-attachments/assets/a4229516-11d7-4943-ab17-a61ef871b551" />
+
